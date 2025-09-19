@@ -8,6 +8,7 @@
         "build.zig",
         "build.zig.zon",
         "src",
+        "eigen-master",
         // For example...
         //"LICENSE",
         //"README.md",
